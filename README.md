@@ -4,6 +4,7 @@ Function:
 * Get time at present
 * Set Timer
 # Image
+![alt text](https://github.com/Hoanglam1134/ClockMobileApp/blob/b259af8099751d69fe46652ac1cc40159e99f1a1/demo.PNG?raw=true) 
 # Demo
 
 # Reference
